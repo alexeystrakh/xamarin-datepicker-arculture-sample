@@ -5,9 +5,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.DatePicker.ARCultur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.DatePicker.ARCulture.iOS", "Xamarin.DatePicker.ARCulture.iOS\Xamarin.DatePicker.ARCulture.iOS.csproj", "{E3F9AD50-4119-4EAF-BF04-06567776F60F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.DatePicker.ARCulture.UITests", "Xamarin.DatePicker.ARCulture.UITests\Xamarin.DatePicker.ARCulture.UITests.csproj", "{781F7DD9-E878-4962-A3DA-578B6315E2C2}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.DatePicker.ARCulture", "Xamarin.DatePicker.ARCulture\Xamarin.DatePicker.ARCulture.csproj", "{33D5FF50-FFCC-4E4B-B37B-A4D74C741611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.DatePicker.ARCulture.UITests", "Xamarin.DatePicker.ARCulture.UITests\Xamarin.DatePicker.ARCulture.UITests.csproj", "{781F7DD9-E878-4962-A3DA-578B6315E2C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,18 +43,6 @@ Global
 		{E3F9AD50-4119-4EAF-BF04-06567776F60F}.Debug|iPhone.Build.0 = Debug|iPhone
 		{E3F9AD50-4119-4EAF-BF04-06567776F60F}.Release|iPhone.ActiveCfg = Release|iPhone
 		{E3F9AD50-4119-4EAF-BF04-06567776F60F}.Release|iPhone.Build.0 = Release|iPhone
-		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
-		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
-		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
-		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
-		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Debug|iPhone.ActiveCfg = Debug|Any CPU
-		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Debug|iPhone.Build.0 = Debug|Any CPU
-		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Release|iPhone.ActiveCfg = Release|Any CPU
-		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Release|iPhone.Build.0 = Release|Any CPU
 		{33D5FF50-FFCC-4E4B-B37B-A4D74C741611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{33D5FF50-FFCC-4E4B-B37B-A4D74C741611}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33D5FF50-FFCC-4E4B-B37B-A4D74C741611}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -67,5 +55,17 @@ Global
 		{33D5FF50-FFCC-4E4B-B37B-A4D74C741611}.Debug|iPhone.Build.0 = Debug|Any CPU
 		{33D5FF50-FFCC-4E4B-B37B-A4D74C741611}.Release|iPhone.ActiveCfg = Release|Any CPU
 		{33D5FF50-FFCC-4E4B-B37B-A4D74C741611}.Release|iPhone.Build.0 = Release|Any CPU
+		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{781F7DD9-E878-4962-A3DA-578B6315E2C2}.Release|iPhone.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

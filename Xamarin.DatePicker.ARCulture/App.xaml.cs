@@ -10,7 +10,7 @@ namespace Xamarin.DatePicker.ARCulture
     {
         public App()
         {
-            var ci = new CultureInfo("ar-SA");
+            var ci = new CultureInfo("ar");
             Thread.CurrentThread.CurrentCulture = ci;
             Thread.CurrentThread.CurrentUICulture = ci;
 
